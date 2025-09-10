@@ -19,7 +19,7 @@ import { Search, Loader2, AlertCircle, Database } from "lucide-react";
  */
 
 // ▼▼ Replace this with your hosted dataset URL (e.g., GitHub Raw URL) ▼▼
-const DATA_URL = "https://example.com/companies.json"; // ← Replace with your link
+const DATA_URL = "https://raw.githubusercontent.com/johna-wq/test00001/refs/heads/main/companies_full.jsonl"; // ← Replace with your link
 const IS_GZIPPED = false; // set to true if your file is .gz
 const IS_JSONL = false;   // set to true if your file is JSON Lines
 
